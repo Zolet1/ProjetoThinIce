@@ -6,20 +6,20 @@
 # Equipe: 
 * Augusto Dante De Carli Zolet - RA: 213356
 
-# Video do projeto:
- `<Ainda não fiz>`
- 
-# Video de apresentação inicial: 
+# Video de apresentação da ideia (primeiro esboço do projeto): 
 * https://youtu.be/ijw-gQexONY
 
-# Slides de apresentação inicial:
+# Video da prévia:
+* https://youtu.be/TXVyU1uOBiY
+ 
+# Video do jogo:
+* https://youtu.be/q-tKMXAa09E
+
+# Slides do esboço do projeto:
 * https://www.canva.com/design/DAEfIAik5Fw/rA42OPe_Arp-l6nSEckaHw/view?utm_content=DAEfIAik5Fw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
-# Video de apresentação final:
-* Ainda não fiz
-
-# Slides de apresentação final:
-* Ainda não fiz
+# Slides da prévia:
+* https://www.canva.com/design/DAEfIAik5Fw/rA42OPe_Arp-l6nSEckaHw/view?utm_content=DAEfIAik5Fw&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
 
 # Relatorio de evolução:
 > Depois de criar os componentes, minha dificuldade foi de encontrar um jeito legal de fazer o fluxo de informação entre eles. No inicio tudo funcionava com retorno booleano, mas não era suficiente então passei a usar um retorno de vetor de String, mas também não foi suficiente pelo fato de ter tamanho fixo, então finalmente modifiquei tudo para retornos de Arraylist de Strings e ai sim consegui um fluxo de informação que informava posições, entidades, e outros eventos como afogamentos e vitorias tudo ao mesmo tempo.
