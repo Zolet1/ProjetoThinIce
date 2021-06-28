@@ -62,7 +62,7 @@ public void atualiza(ArrayList<String>  atualizacao) {
 **Ficha Técnica**
 item | detalhamento
 ----- | -----
-Classe | src/src/thinIceController
+Classe | src.src.thinIceController
 Autores | Augusto
 Interfaces | IControl,IMontador
 
@@ -104,7 +104,7 @@ public interface IMontador {
 **Ficha Técnica**
 item | detalhamento
 ----- | -----
-Classe | src/src/thinIceModel
+Classe | src.src.thinIceModel
 Autores | Augusto 
 Interfaces | IEntidade, IPuffle, ILabirinto, ISala, ITeleporte
 
@@ -200,7 +200,7 @@ Monta um espelho do labirinto e recebe as atualizações, monta a interface grá
 **Ficha Técnica**
 item | detalhamento
 ----- | -----
-Classe | src/src/thinIceView
+Classe | src.src.thinIceView
 Autores | Augusto
 Interfaces | ISubject
 
